@@ -1,5 +1,11 @@
   h1 {
-      text-align: center;
-      color: red;
-      font-style: normal;
+    text-align: center;
+    color: purple;
+    font-style: normal;
+  }
+
+  h2 {
+    text-align: center;
+    color: rgb(71, 135, 225);
+    font-style: oblique;
   }
